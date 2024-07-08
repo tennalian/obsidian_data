@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "5a6840ce76576582",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5db4b392c51cd58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0cef577b845c21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "049b5449e70f7c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b0a0962f360bd63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7eae17c29b5dacf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a44d4c1494b41d44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cfadec0d0fa829d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99da206174d209a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a85a44918f502d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61641f2126b8df1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a857d0b883756a55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccb8ae23f5ee4773",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33ce5a8e57f520c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "eb0cef577b845c21",
+  "lastOpenFiles": [
+    "Angular/Dependency Injection.md",
+    "Angular/Resolvers.md",
+    "Front/Event loop.md",
+    "Tools/WIP - Puppeteer.md",
+    "Tools/Leaflet JS.md",
+    "Angular/trackBy.md",
+    "Front/Полезные ссылки.md",
+    "Front/Алгоритмы.md",
+    "Front/Порядок загрузки страницы.md",
+    "Front/Привязка контекста к функции.md",
+    "Front/Promise.md",
+    "Front/Security OWASP top-10.md",
+    "Tools/Swagger.md",
+    "Tools/Web vitals.md",
+    "Angular/Жизненный цикл.md",
+    "Angular/RxJs.md",
+    "Angular/Pure pipe.md",
+    "Angular/JWT.md",
+    "Angular/Interview questions.md",
+    "Angular/Angular 14-16 changes.md",
+    "Angular/Кеширование.md",
+    "Angular/Оптимизация Angular.md",
+    "Angular/Signals.md",
+    "Tools/Ardiuno Умный дом на node js.md",
+    "Tools/Zappier автоматизация.md",
+    "Interview Questions",
+    "Front",
+    "Tools",
+    "Angular"
+  ]
+}
